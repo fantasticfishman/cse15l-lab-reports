@@ -6,7 +6,7 @@ amogus
 ## h2
 
 [AMOGUS](https://www.innersloth.com/games/among-us/)
-![Image](https://www.innersloth.com/wp-content/uploads/2021/08/img08@2x-570x155.png)
+![Image](https://static.wikia.nocookie.net/unanything/images/2/2a/Amogus.png/revision/latest/scale-to-width-down/200?cb=20210228021914)
 
 > Blockquote
 
