@@ -2,8 +2,8 @@ amogus
 *these are italics*
 **these are bold**
 
-#h1
-##h2
+# h1
+## h2
 
 [link](https://www.innersloth.com/games/among-us/)
 ![Image](https://www.innersloth.com/wp-content/uploads/2021/08/img08@2x-570x155.png)
@@ -18,13 +18,10 @@ amogus
 2. Two
 3. Three
 
-'System.out.println("hello world)"'
+'System.out.println("hello world)"' this is code
 
+```
 # code block
-where does it end
-test
-test
-test
-test
-#
-#
+```
+
+
