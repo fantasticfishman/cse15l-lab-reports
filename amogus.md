@@ -1,27 +1,27 @@
 amogus
-*these are italics*
-**these are bold**
+*these are italics ඞඞ*
+**these are bold ඞ**
 
-# h1
-## h2
+# h1 ඞ
+## h2 ඞ
 
 [amogus](https://www.innersloth.com/games/among-us/)
 ![Image](https://i.kym-cdn.com/entries/icons/original/000/035/973/cover3.jpg)
 
-> Blockquote
+> ඞ
 
-* List1
-* List2
-* List3
+* ඞ
+* ඞ
+* ඞ
 
-1. One
-2. Two
-3. Three
+1. ඞ
+2. ඞ
+3. ඞ
 
-'System.out.println("hello world)"' this is code
+'ඞඞඞඞඞ'
 
 ```
-# code block
+System.out.println("ඞ")
 ```
 
 
