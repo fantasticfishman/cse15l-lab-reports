@@ -5,7 +5,7 @@ amogus
 # h1
 ## h2
 
-[link](https://www.innersloth.com/games/among-us/)
+[AMOGUS](https://www.innersloth.com/games/among-us/)
 ![Image](https://www.innersloth.com/wp-content/uploads/2021/08/img08@2x-570x155.png)
 
 > Blockquote
