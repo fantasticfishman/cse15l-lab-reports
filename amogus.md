@@ -10,9 +10,9 @@ amogus
 
 > Blockquote
 
-*List1
-*List2
-*List3
+* List1
+* List2
+* List3
 
 1. One
 2. Two
