@@ -6,7 +6,7 @@ amogus
 ## h2
 
 [AMOGUS](https://www.innersloth.com/games/among-us/)
-![Image](https://static.wikia.nocookie.net/unanything/images/2/2a/Amogus.png/revision/latest/scale-to-width-down/200?cb=20210228021914)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fwhen-the-imposter-is-sus-sus-jerma&psig=AOvVaw0PUbPmCLbqt9Xk4PYg2iUW&ust=1642204170563000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiM9bX1r_UCFQAAAAAdAAAAABAD)
 
 > Blockquote
 
