@@ -32,7 +32,7 @@
 
 * This command should always be run from your local terminal, not the remote one.
 
-* If you were to create a file on your local system, then run this command ```scp FILENAME cs15lwi22YOURLETTERS@ieng6.ucsd.edu:~/``` , then run ```ls``` after you log in again, you will see your file. 
+* If you were to create a file on your local system, then run this command while in the same directory, ```scp FILENAME cs15lwi22YOURLETTERS@ieng6.ucsd.edu:~/``` , then run ```ls``` after you log in again, you will see your file. 
 
 * It should look like this when you scp.
 
