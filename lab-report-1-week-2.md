@@ -9,7 +9,7 @@
 ## 2. Remotely Connecting
 
 * Next, go to [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) and follow the instructions to install OpenSSH, which will allow you to remotely connect. 
-* Next, go to [account lookup](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse), to find the account credentials that will allow you to remotely connect to the UCSD computers. 
+* Next, go to [account lookup](https://sdacs.ucsd.edu/~icc/index.php), to find the account credentials that will allow you to remotely connect to the UCSD computers. 
 * Then, open the terminal in VS Code(top left on context bar), and type in ```$ ssh cs15lwi22YOURLETTERS@ieng6.ucsd.edu```. Replace YOURLETTERS with the letters in your account, enter your password(it will be invisible), and press yes, and then you will be logged in. You should see something like this when you log in.
 
 ![Image](step2.png)
