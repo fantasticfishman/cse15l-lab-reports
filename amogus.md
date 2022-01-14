@@ -1,27 +1,27 @@
 amogus
-*these are italics ඞඞ*
-**these are bold ඞ**
+*these are italics*
+**these are bold**
 
-# h1 ඞ
-## h2 ඞ
+# h1
+## h2
 
 [amogus](https://www.innersloth.com/games/among-us/)
 ![Image](https://i.kym-cdn.com/entries/icons/original/000/035/973/cover3.jpg)
 
-> ඞ
+> blockquote
 
-* ඞ
-* ඞ
-* ඞ
+* 1
+* 2
+* 3
 
-1. ඞ
-2. ඞ
-3. ඞ
+1. 1
+2. 2
+3. 3
 
-'ඞඞඞඞඞ'
+'sussy'
 
 ```
-System.out.println("ඞ")
+System.out.println("amogus")
 ```
 
 
