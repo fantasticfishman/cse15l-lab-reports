@@ -18,6 +18,6 @@
 - In addition to shorting my SSH commands, I can also use "ieng6" in my scp commands, to shorten them, so I don't have to type out the full address, as displayed below.
 ![Image](/week6/3.png)
 
-- This makes copying over single files when I need to very quick and easy. 
+- This makes copying over single files when I need to very quick and easy. Here I scp over amogus.txt using the alias, saving a lot of typing.
 
 
