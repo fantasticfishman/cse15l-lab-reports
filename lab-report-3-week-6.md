@@ -4,7 +4,7 @@
 - This lab report documents how I streamlined my SSH process. 
 
 ## Config
-- I edited the config file in my local .ssh folder, to create a new alias (ieng6), so I didn't have to type in the full address each time I wanted to access the remote server.
+- I edited the config file in my local .ssh folder, using VS Code, to create a new alias (ieng6), so I didn't have to type in the full address each time I wanted to access the remote server.
 ![Image](/week6/1.png)
 
 - Please note that when I was connecting the VSCode SSH extension so I could view/edit files on the remote server through VS Code, it made its own alias in the config(the first one). The one I made was the second one, with ieng6 as the alias. Deleting/editing the first one causes issues with the extension, so I just made two.
