@@ -5,7 +5,7 @@
 - First, go to [here](https://code.visualstudio.com/) and download the VS Code installer, you can code here and make the process easier.
 - Run the installer, and open the app, it should look like this.
 
-![Image](step1.png)
+![Image](week2/step1.png)
 
 ## 2. Remotely Connecting
 
@@ -13,7 +13,7 @@
 - Next, go to [account lookup](https://sdacs.ucsd.edu/~icc/index.php), to find the account credentials that will allow you to remotely connect to the UCSD computers.
 - Then, open the terminal in VS Code(top left on context bar), and type in `$ ssh cs15lwi22YOURLETTERS@ieng6.ucsd.edu`. Replace YOURLETTERS with the letters in your account, enter your password(it will be invisible), and press yes, and then you will be logged in. You should see something like this when you log in.
 
-![Image](step2.png)
+![Image](week2/step2.png)
 
 ## 3. Trying Some Commands
 
@@ -25,7 +25,7 @@
 
 - Note that you can also run java files on the remote system with java and javac commands.
 
-![Image](step3.png)
+![Image](week2/step3.png)
 
 ## 4. Moving files with scp
 
@@ -37,7 +37,7 @@
 
 - It should look like this when you scp.
 
-![Image](step4.png)
+![Image](week2/step4.png)
 
 ## 5. Setting an SSH Key
 
@@ -63,7 +63,7 @@ $ scp /Users/YOUR USERNAME/.ssh/id_rsa.pub cs15lwi22YOURLETTERS@ieng6.ucsd.edu:~
 
 - You can now ssh and scp without password, and it should look like this. Note how there is no password prompt.
 
-![Image](step5.png)
+![Image](week2/step5.png)
 
 ## 6. Optimizing Remote Running
 
@@ -74,4 +74,4 @@ $ scp /Users/YOUR USERNAME/.ssh/id_rsa.pub cs15lwi22YOURLETTERS@ieng6.ucsd.edu:~
 ` $ ssh cs15lwi22yourletters@ieng6.ucsd.edu "pwd; ls"`
 
 - This is what it would look like in practice. Note how I am logged out after the command is run.
-  ![Image](step6.png)
+  ![Image](week2/step6.png)
