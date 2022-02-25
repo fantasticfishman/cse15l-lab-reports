@@ -2,8 +2,8 @@
 
 ## Repositories
 
-- The link to my repository is here.
-- The link to the repository I'm reviewing is here.
+- The link to my repository is [here](https://github.com/fantasticfishman/markdown-parse)
+- The link to the repository I'm reviewing is [here](https://github.com/LippsVega/markdown-parse).
 
 ## Snippet 1
 
